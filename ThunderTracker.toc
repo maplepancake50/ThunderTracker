@@ -1,0 +1,7 @@
+## Interface: 30300
+## Title: Thunderstorm Tracker
+## Notes: Tracks when a raid member casts Thunderstorm and shows an icon.
+## Author: You
+## Version: 1.0
+
+ThunderTracker.lua
